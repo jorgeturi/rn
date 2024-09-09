@@ -1,0 +1,5 @@
+2024-09-09 11:28:25,124 - DEBUG - Este es un mensaje de depuración (debug).
+2024-09-09 11:28:25,127 - INFO - Este es un mensaje informativo (info).
+2024-09-09 11:28:25,129 - WARNING - Este es un mensaje de advertencia (warning).
+2024-09-09 11:28:25,132 - ERROR - Este es un mensaje de error (error).
+2024-09-09 11:28:25,135 - CRITICAL - Este es un mensaje crítico (critical).
